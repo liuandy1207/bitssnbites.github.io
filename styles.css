@@ -1,0 +1,10 @@
+body {
+    background-color: floralwhite;
+    color: darkgreen;
+    font-family: Tahoma;
+}
+.header {
+    border: 5px solid darkgreen;
+    background-color: inherit;
+    text-align: center;
+}
