@@ -5,7 +5,8 @@ body {
     font-family: "Tahoma";
 }
 header {
-    border: 1px solid darkslategrey;
+    margin: 20px;
+    border: 3px solid darkslategrey;
     background-color: inherit;
     text-align: center;
 }
