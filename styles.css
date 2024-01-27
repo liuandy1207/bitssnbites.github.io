@@ -10,3 +10,9 @@ header {
     background-color: inherit;
     text-align: center;
 }
+a:link {
+    color: darkslategrey;
+}
+a:visited {
+    color: steelblue;
+}
