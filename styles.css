@@ -6,13 +6,13 @@ body {
 }
 header {
     margin: 20px;
-    border: 3px solid darkslategrey;
+    border: 3px solid steelblue;
     background-color: inherit;
     text-align: center;
 }
 a:link {
-    color: darkslategrey;
+    color: steelblue;
 }
 a:visited {
-    color: steelblue;
+    color: skyblue;
 }
