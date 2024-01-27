@@ -4,11 +4,16 @@ body {
     text-align: center;
     font-family: "Tahoma";
 }
+h1 {
+    color: steelblue;
+    font-weight: 100;
+}
 header {
     margin: 20px;
     border: 3px solid steelblue;
     background-color: inherit;
     text-align: center;
+    padding-bottom: 20px;
 }
 a:link {
     color: steelblue;
